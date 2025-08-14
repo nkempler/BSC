@@ -1,2 +1,3 @@
-# BSC
-BarStudyConnect Rebuild (GPT5)
+# BarStudyConnect MVP Scaffold
+
+Placeholder repo for BarStudyConnect.
